@@ -24,7 +24,7 @@ Built a Windows domain environment with centralized user and computer management
 
 **Technologies:** Windows Server, Windows 11, Active Directory, DNS, DHCP, PowerShell, VirtualBox.
 
-**Project repository:** [CausTech-Lab-01-Active-Directory](https://github.com/YOUR-USERNAME/CausTech-Lab-01-Active-Directory)
+**Project repository:** [CausTech-Lab-01-Active-Directory](https://github.com/NicatGnc/CausTech-Lab-01-Active-Directory)
 
 ### Lab 02 — File Server
 
